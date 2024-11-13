@@ -1,0 +1,9 @@
+anthropic==0.34.1
+cohere==5.11.2
+llama-parse==0.4.9
+nest-asyncio==1.6.0
+nltk==3.9.1
+numpy==1.23.2
+pathlib==1.0.1
+tqdm==4.66.4
+voyageai==0.3.0
